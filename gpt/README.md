@@ -27,5 +27,8 @@ Completion expects a single text prompt and only supports GPT-3.5.
 
 Chat expects a list of messsages and supports GPT-3.5 and GPT-4.
 
-### Deep-diving into the model
+### Deep-diving into the machine learning technology
 To learn about the internal workings of GPT as a deep learning model, read the GPT-Transformer.md file.
+
+### Deep-diving into the different GPT models
+To learn about the different GPT models, read the GPT-Models.md file.
